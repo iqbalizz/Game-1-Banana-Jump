@@ -5,4 +5,4 @@ Gameplay dari game banana jump ini kurang lebih hampir sama dengan permainan pou
 
 Untuk gambaran game Banana Jump sendiri seperti di bawah ini
 <br><br>
-<img src="banana.png"> 
+<img src="banana.png" height="360px">  <img src="banana2.png" height="360px">  <img src="banana3.png" height="360px">
